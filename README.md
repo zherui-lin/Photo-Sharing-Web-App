@@ -2,11 +2,25 @@
 
 Commands to run or test the app:
 
-`npm install`
+install packages:
+```
+npm install
+```
 
-`mongod`
-`node loadDatabase.js`
+initialize database:
+```
+mongod
+```
+```
+node loadDatabase.js
+```
 
-`npm run build`
+compile frontend:
+```
+npm run build
+```
 
-`node webServer.js`
+run web server:
+```
+node webServer.js
+```
